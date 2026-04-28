@@ -1,1 +1,9 @@
+RESPONSE ACTIONS
 
+1. Detected malware alert
+2. Investigated system behavior
+3. Isolated affected machine from network
+4. Identified malicious files/processes
+5. Removed malware components
+6. Verified system integrity
+7. Restored system to normal operation
