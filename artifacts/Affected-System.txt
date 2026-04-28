@@ -1,1 +1,10 @@
+AFFECTED SYSTEM DETAILS
 
+Hostname: workstation-01
+IP Address: 192.168.1.25
+User: employee01
+
+Observed Behavior:
+- Unusual system activity
+- Suspicious process execution
+- Possible malware presence
