@@ -1,0 +1,5 @@
+IOC REPORT
+
+File: malware.exe
+IP: 203.0.113.5
+Behavior: Suspicious outbound connection
