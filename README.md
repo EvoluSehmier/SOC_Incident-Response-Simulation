@@ -1,29 +1,30 @@
-# Incident Response Simulation (SOC Project)
+# Incident Response Simulation
 
-## Overview
-This project simulates responding to a cybersecurity incident.
+## 📌 Executive Summary
+A simulated malware infection was detected and handled using structured incident response procedures.
 
-## Objective
-Demonstrate structured incident response process.
+## 🎯 Objective
+Demonstrate incident handling lifecycle.
 
-## Process
+## 🔁 Incident Response Phases
 
-1. Detection
-2. Analysis
-3. Containment
-4. Eradication
-5. Recovery
+### 1. Detection
+Malware alert triggered
 
-## Scenario
-Simulated malware detected on a system.
+### 2. Analysis
+Confirmed malicious behavior
 
-## Actions Taken
-- Identified affected system
-- Isolated device
-- Removed threat
+### 3. Containment
+Isolated infected system
 
-## Outcome
-Incident contained and resolved.
+### 4. Eradication
+Removed malware
 
-## Lessons Learned
-Importance of quick response and structured process
+### 5. Recovery
+System restored
+
+## ⚖️ Severity
+High
+
+## 🧠 MITRE ATT&CK
+- T1059 – Command Execution
