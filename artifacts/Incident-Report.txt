@@ -1,1 +1,16 @@
+INCIDENT REPORT
 
+Incident Type: Malware Infection
+Severity: High
+
+Summary:
+A malware alert was triggered on a workstation indicating suspicious activity and possible system compromise.
+
+Detection Method:
+Endpoint alert triggered by security monitoring system
+
+Impact:
+Potential compromise of system integrity
+
+Status:
+Resolved
