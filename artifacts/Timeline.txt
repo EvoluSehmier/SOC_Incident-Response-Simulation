@@ -1,1 +1,10 @@
+INCIDENT TIMELINE
 
+09:00 - Malware alert triggered
+09:05 - Initial investigation started
+09:10 - Suspicious activity confirmed
+09:15 - System isolated from network
+09:25 - Malware identified
+09:40 - Threat removed
+10:00 - System restored
+10:10 - Incident closed
